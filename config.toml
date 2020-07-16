@@ -1,7 +1,7 @@
-#baseURL = "https://solider245.github.io/"
+#baseURL = "https://github.com/solider245/solider245.github.io"
 baseURL = "/"
 languageCode = "en"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
