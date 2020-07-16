@@ -1,7 +1,9 @@
 #baseURL = "https://github.com/solider245/solider245.github.io"
-#baseURL = "/"
-baseURL = "https://.github.io/"
+baseURL = "/"
+#baseURL = "https://.github.io/"
 #relativeURLs = true
+publishDir = "docs"
+
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
