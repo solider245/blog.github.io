@@ -2,8 +2,8 @@
 baseURL = "/"
 #baseURL = "https://.github.io/"
 #relativeURLs = true
-publishDir = "docs"
-
+publishDir = "docs" #生成的文章路径名称
+buildFuture = "true" #强制渲染文章
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "一个技术小白的编程日记"
