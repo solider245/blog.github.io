@@ -6,9 +6,19 @@
     <description>Recent content in Categories on 一个技术小白的编程日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 18 Jul 2020 23:42:47 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>linux</title>
+      <link>/categories/linux/</link>
+      <pubDate>Sat, 18 Jul 2020 23:42:47 +0000</pubDate>
+      
+      <guid>/categories/linux/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
